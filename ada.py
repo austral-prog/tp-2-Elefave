@@ -8,7 +8,7 @@ def ada():
     print(capital_name)
     upper_name = full_name.upper()
     print(upper_name)
-    print("       " + lower_name)
+    print("\t"+lower_name)
 
 
 ada()
